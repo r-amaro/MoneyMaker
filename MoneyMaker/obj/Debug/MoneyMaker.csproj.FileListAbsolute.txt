@@ -1,0 +1,7 @@
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe.config
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.exe
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\bin\Debug\MoneyMaker.pdb
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csprojAssemblyReference.cache
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.exe
+C:\Users\ralfg\source\repos\MoneyMaker\MoneyMaker\obj\Debug\MoneyMaker.pdb
